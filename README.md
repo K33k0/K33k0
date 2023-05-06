@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @K33k00
+- 👋 Hi, I’m Kieran
 - 👀 I’m interested in process improvement and task automation. Also building up my portfolio would be nice.
 - 🌱 I’m currently learning selenium, python, and whatever else blows my way
 - 💞️ I’m looking to collaborate on: happy to help with anything
-- 📫 How to reach me: twitter @EclecticProtean
 
 <!---
 K33k0/K33k0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
